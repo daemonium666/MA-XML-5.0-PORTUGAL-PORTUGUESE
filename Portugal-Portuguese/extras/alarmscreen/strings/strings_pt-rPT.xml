@@ -1,4 +1,4 @@
 <strings>
     <string name="slider_text" value="arraste para direita para fechar" />
-    <string name="snooze_message" value="Soneca por %d min." />
+    <string name="snooze_message" value="Adiar por %d min." />
 </strings>
