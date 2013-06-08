@@ -14,7 +14,7 @@
     <string name="menu_scan_stop">Parar Pesquisa</string>
     <string name="menu_select_station">Selecionar Estação</string>
     <string name="menu_new_station">Adicionar Estação</string>
-    <string name="menu_save_station">Salvar Estação</string>
+    <string name="menu_save_station">Gravar Estação</string>
     <string name="title_select_station">Selecionar Estação - %s</string>
     <string name="button_text_stop">Parar</string>
     <string name="msg_seeking">Pesquisando estação FM</string>
@@ -33,13 +33,13 @@
     <string name="audio_type_mono">Mono</string>
     <string name="no_storage">Monte o cartão SD antes de iniciar uma gravação.</string>
     <string name="preparing_sd">Preparando cartão SD</string>
-    <string name="access_sd_fail">Impossível acessar cartão SD.</string>
-    <string name="spaceIsLow_content">Seu cartão SD está ficando sem espaço. Altere a qualidade da gravação ou exclua alguns arquivos para continuar gravando sua estação.</string>
-    <string name="FMRecording_reach_storage_threshold">Gravação interrompida. O espaço disponível para gravação em seu cartão SD está baixo.</string>
+    <string name="access_sd_fail">Impossível aceder ao cartão SD.</string>
+    <string name="spaceIsLow_content">Seu cartão SD está a ficar sem espaço. Altere a qualidade da gravação ou exclua alguns arquivos para continuar gravando sua estação.</string>
+    <string name="FMRecording_reach_storage_threshold">Gravação interrompida. O espaço disponível para gravação em seu cartão SD está muito baixo.</string>
     <string name="alert_dialog_ok">Ok</string>
     <string name="alert_dialog_cancel">Cancelar</string>
     <string name="search_dialog_title">Procurar Estações</string>
-    <string name="fmradio_clear_confirm_msg">As estações salvas serão removidas, continuar procura?</string>
+    <string name="fmradio_clear_confirm_msg">As estações gravadas serão removidas, continuar procura?</string>
     <string name="fm_command_timeout_title">Tempo esgotado</string>
     <string name="fm_tune_timeout_msg">Nenhuma resposta ao ajustar a estação FM. Se o problema persistir, desative o Rádio FM e, em seguida, reative-o.</string>
     <string name="fm_command_failed_title">Falha na Operação de FM</string>
@@ -52,9 +52,9 @@
     <string name="station_name_already_used">Nome da Estação já existe. Por favor utilize outro nome</string>
     <string name="toast_save_station">%sMHz foi salva com sucesso</string>
     <string name="hint_station_name">Nome da Estação</string>
-    <string name="alert_title_save_station">Salvar Estação - %s</string>
+    <string name="alert_title_save_station">Gravar Estação - %s</string>
     <string name="edit_station">Editar Estação</string>
-    <string name="toast_edit_station">As alterações foram salvas</string>
+    <string name="toast_edit_station">As alterações foram processadas</string>
     <string name="input_station">Frequência (MHz)</string>
     <string name="frequency_should_not_null">A Frequência não pode estar em branco</string>
     <string name="frequency_out_of_range">(%1$s~%2$s) A frequência está fora do limite</string>
@@ -63,7 +63,7 @@
     <string name="alert_title_delete">Excluir</string>
     <string name="alert_message_delete_station">Você tem certeza que deseja excluir a estação selecionada?</string>
     <string name="toast_delete_station">%sMHz foi excluída.</string>
-    <string name="msg_noantenna_message">Por favor, conecte seus fones de ouvido antes de utilizar o Rádio FM.</string>
+    <string name="msg_noantenna_message">Ligue auricular para usar a aplicação de Rádio FM.</string>
     <string name="exit_fm">Sair</string>
     <string name="toast_sleep_mode">Parar FM em %s</string>
     <string name="status_recording">%s</string>
