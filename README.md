@@ -1,4 +1,4 @@
-MA-XML-5.0-BRAZILIAN-PORTUGUESE
+MA-XML-5.0-PORTUGAL-PORTUGUESE
 ===============================
 
-Brazilian Portuguese XMLs for MIUIv5 MULTIlang builds miuiandroid.com
+Portuguese from Portugal XMLs for MIUIv5 MULTIlang builds miuiandroid.com
