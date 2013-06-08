@@ -33,14 +33,14 @@
     <string name="firewall_action">Ação</string>
     <string name="act_call">Chamadas</string>
     <string name="act_hangup_call">Bloquear e ocultar</string>
-    <string name="act_hangup_call_summary">As chamadas são bloqueadas e gravadas no registro de chamadas</string>
+    <string name="act_hangup_call_summary">As chamadas são bloqueadas e gravadas no registo de chamadas</string>
     <string name="act_mute_call">Silenciar</string>
-    <string name="act_mute_call_summary">Silencia o som de toque e mantém o registro da chamada</string>
+    <string name="act_mute_call_summary">Silencia o som de toque e mantém o registo da chamada</string>
     <string name="act_ignore_call">Ignorar</string>
-    <string name="act_action_reject_reject">Monitorar chamadas e mensagens de entrada</string>
-    <string name="act_action_reject_mute">Monitorar chamadas e silenciar mensagens</string>
-    <string name="act_action_reject_accept">Monitorar chamadas</string>
-    <string name="act_action_mute_reject">Rejeitar chamadas e monitorar mensagens</string>
+    <string name="act_action_reject_reject">Monitorizar chamadas e mensagens de entrada</string>
+    <string name="act_action_reject_mute">Monitorizar chamadas e silenciar mensagens</string>
+    <string name="act_action_reject_accept">Monitorizar chamadas</string>
+    <string name="act_action_mute_reject">Rejeitar chamadas e monitorizar mensagens</string>
     <string name="act_action_mute_mute">Silenciar chamadas e mensagens</string>
     <string name="act_action_mute_accept">Rejeitar chamadas</string>
     <string name="act_action_accept_reject">Bloquear mensagens</string>
@@ -48,7 +48,7 @@
     <string name="act_action_accept_accept">Aceitar</string>
     <string name="act_ms">Mensagens</string>
     <string name="act_del_ms">Excluir</string>
-    <string name="act_del_ms_summary">Exclui a mensagem e inclui o número no registro de bloqueio</string>
+    <string name="act_del_ms_summary">Exclui a mensagem e inclui o número no registo de bloqueio</string>
     <string name="act_mute_ms">Silenciar</string>
     <string name="act_mute_ms_summary">Silencia a recepção da mensagem, e a mantém na caixa de entrada</string>
     <string name="act_ignore_ms">Ignorar</string>
@@ -96,10 +96,10 @@
     <string name="fw_blocked_count" formatted="false">%d chamadas e %d mensagens bloqueadas</string>
     <string name="firewall_settings">Configs. DND</string>
     <string name="remove">Excluir</string>
-    <string name="emptylist_fwlog_call">Todas as chamadas bloqueadas serão registradas aqui.</string>
-    <string name="emptylist_fwlog_ms">Todas as mensagens bloqueadas serão registradas aqui.</string>
+    <string name="emptylist_fwlog_call">Todas as chamadas bloqueadas serão registadas aqui.</string>
+    <string name="emptylist_fwlog_ms">Todas as mensagens bloqueadas serão registadas aqui.</string>
     <string name="add_button">Adicionar</string>
-    <string name="save_button">Salvar</string>
+    <string name="save_button">Gravar</string>
     <string name="cancel_button">Cancelar</string>
     <string name="add_blacklist">Adic. à lista negra</string>
     <string name="add_whitelist">Adic. a permitidos</string>
