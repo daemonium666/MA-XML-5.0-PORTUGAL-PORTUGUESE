@@ -354,7 +354,7 @@ saia de vista por um momento"</string>
     <string name="contact_note">Nota</string>
     <string name="success_message_import_from_account">Importado com êxito</string>
     <string name="web_url_warning">O site em código QR ​​pode apresentar riscos，navegador MIUI irá digitalizar-lo com segurança para você. Usar com segurança</string>
-    <string name="web_url_apk_warning">O código QR ​​contém um aplicação para download que pode colocar o sistema em risco，aconselhamos que use o Market para procurar e instalar o aplicações</string>
+    <string name="web_url_apk_warning">O código QR ​​contém uma aplicação para download que pode colocar o sistema em risco，aconselhamos que use o Market para procurar e instalar aplicações</string>
     <string name="pref_camera_id_entry_back">Câmara traseira</string>
     <string name="pref_camera_id_entry_front">Câmara frontal</string>
     <string name="pref_camera_picturesize_entry_1024x768">0.8M Pixels</string>
