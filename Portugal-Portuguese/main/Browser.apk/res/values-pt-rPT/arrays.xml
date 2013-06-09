@@ -33,7 +33,7 @@
         <item>Outro</item>
     </string-array>
     <string-array name="pref_text_size_choices">
-        <item>Mumuito pequeno</item>
+        <item>Muito pequeno</item>
         <item>Pequeno</item>
         <item>Normal</item>
         <item>Grande</item>
@@ -47,7 +47,7 @@
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
         <item>Unicode (UTF-8)</item>
-        <item>Chino (GBK)</item>
+        <item>Chines (GBK)</item>
         <item>Chines (Big5)</item>
         <item>Japones (ISO-2022-JP)</item>
         <item>Japones (SHIFT_JIS)</item>
@@ -107,10 +107,10 @@
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Subir/Descer na página</item>
-        <item>Mudar de Aba</item>
+        <item>Mudar de Separador</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Voltar/Avançar Página</item>
-        <item>Mudar de Aba</item>
+        <item>Mudar de Separador</item>
     </string-array>
 </resources>
