@@ -29,7 +29,7 @@
     <string name="cb_other_message_identifiers">Cell broadcast</string>
     <string name="emergency_alert_settings_title">Configurações do alerta</string>
     <string name="enable_emergency_alerts_title">Ativar notificações</string>
-    <string name="enable_emergency_alerts_summary">Exibir broadcasts emergenciais</string>
+    <string name="enable_emergency_alerts_summary">Exibir broadcasts de emergência</string>
     <string name="alert_sound_duration_title">Duração do tom de alerta</string>
     <string name="enable_alert_speech_title">Falar mensagem de alerta</string>
     <string name="enable_alert_speech_summary">Usar TTS para ler as mensagens de alerta</string>
@@ -66,7 +66,7 @@
     <string name="cmas_response_evacuate">Evacuar</string>
     <string name="cmas_response_prepare">Preparar</string>
     <string name="cmas_response_execute">Executar atividade</string>
-    <string name="cmas_response_monitor">Monitorar recursos</string>
+    <string name="cmas_response_monitor">Monitorizar recursos</string>
     <string name="cmas_response_avoid">Evitar perigo</string>
     <string name="cmas_response_assess">Avaliar</string>
     <string name="cmas_response_none">Nenhuma ação</string>
