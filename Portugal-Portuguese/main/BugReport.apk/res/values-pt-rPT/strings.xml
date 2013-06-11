@@ -18,9 +18,9 @@
     <string name="err_type_call">Problemas em chamadas</string>
     <string name="err_type_suggestion">Sugestões</string>
     <string name="err_type_data_lost">Arquivos perdidos</string>
-    <string name="status_msg_pending_upload">%d feedbacks sendo enviados...</string>
+    <string name="status_msg_pending_upload">%d feedbacks a ser enviados...</string>
     <string name="status_msg_collecting_log">"A fim de resolver problemas mais rapidamente, 
-Coletando logs"</string>
+Associando logs"</string>
     <string name="action_submit">Enviar</string>
     <string name="section_err_type">Tipo de feedback</string>
     <string name="section_description">Descrição</string>
@@ -29,15 +29,15 @@ Coletando logs"</string>
     <string name="toast_report_sent_failed">Falha ao enviar relatório</string>
     <string name="toast_report_copied_to_clipboard">Rerelatório copiado para a área de transferência</string>
     <string name="toast_description_required">Preencha a descrição do feedback</string>
-    <string name="toast_pending_log_collection">Coletando logs, aguarde um momento</string>
-    <string name="toast_feedback_submitted">Seu feedback foi enviado com sucesso</string>
-    <string name="toast_feedback_pending_wlan">Seu feedback será enviado quando houver uma conexão WiFi válida</string>
+    <string name="toast_pending_log_collection">Associando logs, aguarde um momento</string>
+    <string name="toast_feedback_submitted">O feedback foi enviado com sucesso</string>
+    <string name="toast_feedback_pending_wlan">O feedback será enviado quando houver uma conexão WiFi válida</string>
     <string name="discard_draft_dialog_title">Descartar rascunho</string>
-    <string name="discard_draft_dialog_content">O relatório foi modificado, toque no botão OK para descartar o rascunho.</string>
+    <string name="discard_draft_dialog_content">O relatório foi modificado, toque no botão OK para eliminar o rascunho.</string>
     <string name="discard_draft_dialog_button_discard">OK</string>
     <string name="discard_draft_dialog_button_cancel">Cancelar</string>
     <string name="network_unavailable_dialog_title">Rede indisponível</string>
-    <string name="network_unavailable_dialog_content">Seu feedback será enviado quando houver uma conexão de dados válida em seu dispositivo</string>
+    <string name="network_unavailable_dialog_content">O feedback será enviado quando houver uma ligação de dados válida no aparelho</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="wlan_unavailable_dialog_title">WiFi indisponível</string>
     <string name="wlan_unavailable_dialog_content">%s é requerido para dados 2G/3G, toque em OK para enviar somente em redes WiFi</string>
