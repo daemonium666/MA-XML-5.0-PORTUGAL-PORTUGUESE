@@ -22,8 +22,8 @@
     <string name="lg">log</string>
     <string name="leftParen">(</string>
     <string name="rightParen">)</string>
-    <string name="basic">Painel básico</string>
-    <string name="advanced">Painel avançado</string>
+    <string name="basic">Básico</string>
+    <string name="advanced">Avançado</string>
     <string name="clear_history">Limpar histórico</string>
     <string name="text_copied_toast">Texto copiado.</string>
     <string name="standard">padrão</string>
@@ -39,7 +39,7 @@
     <string name="plusDesc">soma</string>
     <string name="minusDesc">subtração</string>
     <string name="dotDesc">ponto</string>
-    <string name="powerDesc">exponenciação</string>
+    <string name="powerDesc">exponencial</string>
     <string name="delDesc">deletar</string>
     <string name="clearDesc">limpar</string>
     <string name="tanDesc">tangente</string>
