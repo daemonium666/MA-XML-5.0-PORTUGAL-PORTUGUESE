@@ -12,7 +12,7 @@
     <string name="debug_tool_delete_button">Apagar agora</string>
     <string name="debug_tool_start_button">Início</string>
     <string name="debug_tool_message">Está prestes a 1) fazer uma cópia da sua base de dados do calendário para o armazenamento de usb/cartão SD que pode ser lido por qualquer aplicação e 2) enviá-la por e-mail. Lembre-se de apagá-lo logo que copie com sucesso do dispositivo ou o e-mail seja recebido.</string>
-    <string name="debug_tool_email_sender_picker">Selecione um programa para enviaro seu ficheiro</string>
+    <string name="debug_tool_email_sender_picker">Selecione um programa para enviar o seu ficheiro</string>
     <string name="debug_tool_email_subject">BD do calendário anexada</string>
     <string name="debug_tool_email_body">Está anexado à minha base de dados do calendário, com todos os meus compromissos e informações pessoais. Por favor, use com cuidado.</string>
 </resources>
