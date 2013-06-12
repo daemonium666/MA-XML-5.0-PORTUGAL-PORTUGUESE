@@ -7,7 +7,7 @@
     <string name="menu_desk_clock">Relógio de Mesa</string>
     <string name="edit_alarm">Editar Alarme</string>
     <string name="delete_alarm">Excluir alarme</string>
-    <string name="enable_alarm">Ativar Alarme</string>
+    <string name="enable_alarm">Activar Alarme</string>
     <string name="disable_alarm">Desativar Alarme</string>
     <string name="delete_alarm_confirm">Excluir este alarme?</string>
     <string name="show_clock">Exibir Relógio</string>
@@ -21,7 +21,7 @@
     <string name="time">Horário</string>
     <string name="alarm_alert_dismiss_text">Encerrar</string>
     <string name="alarm_alert_alert_silenced">Alarme silenciado após %d minutos.</string>
-    <string name="timer_alert_alert_silenced">Temporizador silênciado depois de %d minutos.</string>
+    <string name="timer_alert_alert_silenced">Temporizador silenciado depois de %d minutos.</string>
     <string name="alarm_alert_snooze_text">Colocar em modo de espera</string>
     <string name="alarm_alert_snooze_set">Em espera por %d minutos.</string>
     <string name="day">1 dia</string>
@@ -39,8 +39,8 @@
     <string name="settings">Configurações</string>
     <string name="alarm_in_silent_mode_title">Modo Silencioso</string>
     <string name="snooze_duration_title">Duração de silêncio</string>
-    <string name="auto_silence_title">Auto-silênciar</string>
-    <string name="auto_silence_summary">Alarmes vão silênciar depois de %d minutos</string>
+    <string name="auto_silence_title">Auto-silenciar</string>
+    <string name="auto_silence_summary">Alarmes serão silenciados depois de %d minutos</string>
     <string name="auto_silence_never">Off</string>
     <string name="done">Concluído</string>
     <string name="revert">Reverter</string>
@@ -48,11 +48,11 @@
     <string name="alarm_volume_title">Volume do Alarme</string>
     <string name="alarm_volume_summary">Definir o volume dos alarmes</string>
     <string name="silent_alarm_summary">Silencioso</string>
-    <string name="alarm_notify_text">Soneca ou cancelar alarme</string>
+    <string name="alarm_notify_text">Atrasar ou cancelar alarme</string>
     <string name="alarm_notify_snooze_label">%s (em modo de espera)</string>
     <string name="alarm_notify_snooze_text">Novo alarme definido como %s. Toque para cancelar.</string>
-    <string name="snooze_confirm_message">"Soneca interrompida, %s para reativá-la.
-Você também pode cancelar este alarme."</string>
+    <string name="snooze_confirm_message">"Atraso interrompido, %s para reactivar.
+Também pode cancelar este alarme."</string>
     <string name="snooze_confirm_ok">Ok</string>
     <string name="snooze_confirm_cancel">Cancelar</string>
     <string name="volume_button_setting_title">Botões de Volume</string>
@@ -92,8 +92,8 @@ Você também pode cancelar este alarme."</string>
     <string name="alarm_ascending_mode_summary">O volume do alarme aumentará gradualmente.</string>
     <string name="close_alarm">Desligar o alarme</string>
     <string name="start">Iniciar</string>
-    <string name="pause">Pausar</string>
-    <string name="reset">Zerar</string>
+    <string name="pause">Pausa</string>
+    <string name="reset">Zero</string>
     <string name="lap">Reset</string>
     <string name="timer_continue">Continuar</string>
     <string name="elapsed_hour">%d horas</string>
@@ -102,10 +102,10 @@ Você também pode cancelar este alarme."</string>
     <string name="stopwatch_lap_empty_text">Nenhuma vez</string>
     <string name="timer_got_it">Ok</string>
     <string name="timer_start_alarm">Tempo esgotado</string>
-    <string name="dialog_confirm_abort">Deseja descartar as alterações?</string>
-    <string name="confirm_abort">Descartar</string>
+    <string name="dialog_confirm_abort">Deseja reverter as alterações?</string>
+    <string name="confirm_abort">Rejeitar</string>
     <string name="remind_ringtone">Toque de Lembrete</string>
-    <string name="keep_screen_on">Manter Tela Ligada</string>
+    <string name="keep_screen_on">Manter Ecrã Ligada</string>
     <string name="start_up">Iniciar</string>
     <string name="cancel">Cancelar</string>
     <string name="timer_minute">minuto</string>
@@ -114,7 +114,7 @@ Você também pode cancelar este alarme."</string>
     <string name="timer_message">Contador para %1$d minutos</string>
     <string name="timer_tutorial">Defina o Contador</string>
     <string name="shutdown_alarm_title">Alarme de Desligamento</string>
-    <string name="shutdown_alarm_enable_summary">Alarme de Desligamento Ativado</string>
+    <string name="shutdown_alarm_enable_summary">Alarme de Desligamento Activado</string>
     <string name="shutdown_alarm_disable_summary">Não tocar Alarme após o desligamento</string>
     <string name="workday_alarm_clock">Alarme de Dias de Semana</string>
     <string name="weekend_alarm_clock">Alarme de Fim de Semana</string>
@@ -123,20 +123,20 @@ Você também pode cancelar este alarme."</string>
     <string name="hour_unit">Hr</string>
     <string name="minute_unit">M</string>
     <string name="alarm_label_hint">Digite o título do alarme</string>
-    <string name="legal_workday_invalidate">Data expirada (Atualmente, o alarme toca de segunda a sexta)</string>
-    <string name="legal_workday_invalidate_message">(Data expirada. Atualizar em definições)</string>
+    <string name="legal_workday_invalidate">Data expirada (Actualmente, o alarme toca de segunda a sexta)</string>
+    <string name="legal_workday_invalidate_message">(Data expirada. Actualizar em definições)</string>
     <string name="legal_workday_message">(Alarme desligado durante as férias)</string>
-    <string name="holiday_update_title">Dados dos dias úteis precisam ligar rede e atualizar</string>
-    <string name="holiday_update_summary">Clique para Verificar atualizações</string>
-    <string name="holiday_data_updating">Atualizar...</string>
-    <string name="holiday_data_update_failed">Verifique se há erros de atualização e tente novamente mais tarde.</string>
-    <string name="holiday_data_update_succeed">Verifique se há atualizações concluídas</string>
-    <string name="holiday_data_already_newest">Dados de dias úteis já estão atualizados</string>
+    <string name="holiday_update_title">Dados dos dias úteis precisam ligar rede e actualizar</string>
+    <string name="holiday_update_summary">Clique para Verificar actualizações</string>
+    <string name="holiday_data_updating">Actualizar...</string>
+    <string name="holiday_data_update_failed">Verifique se há erros de actualização e tente novamente mais tarde.</string>
+    <string name="holiday_data_update_succeed">Verifique se há actualizações concluídas</string>
+    <string name="holiday_data_already_newest">Dados de dias úteis já estão actualizados</string>
     <string name="holiday_data_no_network">Sem rede, por favor, tente novamente mais tarde</string>
     <string name="default_alarm_alert">Defina o toque padrão</string>
     <string name="default_alarm_title">O toque padrão</string>
     <string name="alarm_alert">Toque regular</string>
-    <string name="alarm_screen">Alarme na tela e toque</string>
+    <string name="alarm_screen">Alarme no ecrã e toque</string>
     <string name="alarm_duration">Duração do Alarme e Intervalos (Min)</string>
     <string name="alarm_count">Tempo limite para auto-silenciar alarme</string>
     <string name="alarm_duration_title">Configurações de Duração de Alarme</string>
